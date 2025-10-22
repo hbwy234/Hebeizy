@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇭🇰 拼好机香港, server: 103.122.244.59, port: 16398, type: vmess, uuid: addd6788-3782-4881-bf92-879f8d71cb9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 拼好机香港（节点别打）, server: 103.122.244.59, port: 16398, type: vmess, uuid: addd6788-3782-4881-bf92-879f8d71cb9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: ak机器, server: 156.229.163.251, port: 18869, type: vmess, uuid: 74111d7d-f2ee-43ef-d057-7b5dca6581eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇯🇵 ak日本 5000mbps, server: 156.231.113.96, port: 36373, type: vmess, uuid: a1c34f90-eda2-4c62-9390-fdec2d67dace, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 ak香港, server: 141.11.91.121, port: 58168, type: vmess, uuid: 8e65ee5e-8634-40bc-9a3b-373450896e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
